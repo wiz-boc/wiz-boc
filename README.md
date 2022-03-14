@@ -10,16 +10,12 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)][website]
 [![website](./img/globe-dark.svg)][website]
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)][twitter]
 [![website](./img/twitter-dark.svg)][twitter]
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)][linkedin]
 [![website](./img/linkedin-dark.svg)][linkedin]
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)][instagram]
 [![website](./img/instagram-dark.svg)][instagram]
 
 ### Languages and Tools:
