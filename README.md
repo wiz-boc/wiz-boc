@@ -49,4 +49,4 @@
 [youtube]: https://www.youtube.com/channel/UCY-FURIgHOTrgtDi9o2RGPQ
 [instagram]: https://www.instagram.com/wiz_codable/
 [linkedin]: https://www.linkedin.com/in/callmewiz/
-[toollist]: http://callmewiz.com
+[toollist]: http://callmewiz.net
