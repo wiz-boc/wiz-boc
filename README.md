@@ -43,7 +43,7 @@
 
 </details>
 
-[website]: http://callmewiz.com
+[website]: http://callmewiz.net
 [blog]: https://codablecode.com
 [twitter]: https://twitter.com/codablecode
 [youtube]: https://www.youtube.com/channel/UCY-FURIgHOTrgtDi9o2RGPQ
